@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Probleme_Chiffre_Affaire": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
